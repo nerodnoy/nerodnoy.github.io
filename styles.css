@@ -19,3 +19,7 @@ body {
     text-align: center;
     font-size: 25px;
   }
+
+p {
+    color: aqua;
+}
